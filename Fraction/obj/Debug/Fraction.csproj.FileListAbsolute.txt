@@ -1,0 +1,8 @@
+D:\C#folder\HOMEWORK8.2.2023\Fraction\bin\Debug\Fraction.exe.config
+D:\C#folder\HOMEWORK8.2.2023\Fraction\bin\Debug\Fraction.exe
+D:\C#folder\HOMEWORK8.2.2023\Fraction\bin\Debug\Fraction.pdb
+D:\C#folder\HOMEWORK8.2.2023\Fraction\obj\Debug\Fraction.csproj.AssemblyReference.cache
+D:\C#folder\HOMEWORK8.2.2023\Fraction\obj\Debug\Fraction.csproj.SuggestedBindingRedirects.cache
+D:\C#folder\HOMEWORK8.2.2023\Fraction\obj\Debug\Fraction.csproj.CoreCompileInputs.cache
+D:\C#folder\HOMEWORK8.2.2023\Fraction\obj\Debug\Fraction.exe
+D:\C#folder\HOMEWORK8.2.2023\Fraction\obj\Debug\Fraction.pdb
