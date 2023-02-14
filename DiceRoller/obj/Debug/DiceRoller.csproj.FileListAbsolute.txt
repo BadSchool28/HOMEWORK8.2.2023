@@ -1,0 +1,8 @@
+D:\C#folder\HOMEWORK8.2.2023\DiceRoller\bin\Debug\DiceRoller.exe.config
+D:\C#folder\HOMEWORK8.2.2023\DiceRoller\bin\Debug\DiceRoller.exe
+D:\C#folder\HOMEWORK8.2.2023\DiceRoller\bin\Debug\DiceRoller.pdb
+D:\C#folder\HOMEWORK8.2.2023\DiceRoller\obj\Debug\DiceRoller.csproj.AssemblyReference.cache
+D:\C#folder\HOMEWORK8.2.2023\DiceRoller\obj\Debug\DiceRoller.csproj.SuggestedBindingRedirects.cache
+D:\C#folder\HOMEWORK8.2.2023\DiceRoller\obj\Debug\DiceRoller.csproj.CoreCompileInputs.cache
+D:\C#folder\HOMEWORK8.2.2023\DiceRoller\obj\Debug\DiceRoller.exe
+D:\C#folder\HOMEWORK8.2.2023\DiceRoller\obj\Debug\DiceRoller.pdb
