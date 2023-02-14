@@ -1,8 +1,0 @@
-D:\C#folder\HOMEWORK8.2.2023\lop\obj\Debug\lop.csproj.AssemblyReference.cache
-D:\C#folder\HOMEWORK8.2.2023\lop\obj\Debug\lop.csproj.SuggestedBindingRedirects.cache
-D:\C#folder\HOMEWORK8.2.2023\lop\obj\Debug\lop.csproj.CoreCompileInputs.cache
-D:\C#folder\HOMEWORK8.2.2023\lop\bin\Debug\lop.exe.config
-D:\C#folder\HOMEWORK8.2.2023\lop\bin\Debug\lop.exe
-D:\C#folder\HOMEWORK8.2.2023\lop\bin\Debug\lop.pdb
-D:\C#folder\HOMEWORK8.2.2023\lop\obj\Debug\lop.exe
-D:\C#folder\HOMEWORK8.2.2023\lop\obj\Debug\lop.pdb

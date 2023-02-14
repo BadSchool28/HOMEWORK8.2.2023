@@ -1,8 +1,0 @@
-D:\C#folder\HOMEWORK8.2.2023\SongList\bin\Debug\SongList.exe.config
-D:\C#folder\HOMEWORK8.2.2023\SongList\bin\Debug\SongList.exe
-D:\C#folder\HOMEWORK8.2.2023\SongList\bin\Debug\SongList.pdb
-D:\C#folder\HOMEWORK8.2.2023\SongList\obj\Debug\SongList.csproj.AssemblyReference.cache
-D:\C#folder\HOMEWORK8.2.2023\SongList\obj\Debug\SongList.csproj.SuggestedBindingRedirects.cache
-D:\C#folder\HOMEWORK8.2.2023\SongList\obj\Debug\SongList.csproj.CoreCompileInputs.cache
-D:\C#folder\HOMEWORK8.2.2023\SongList\obj\Debug\SongList.exe
-D:\C#folder\HOMEWORK8.2.2023\SongList\obj\Debug\SongList.pdb
